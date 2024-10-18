@@ -1,8 +1,3 @@
-# Crew-Agentic-RAG
-Here is a well-structured `README.md` file for your GitHub repository. This document explains how to set up the environment, the purpose of the project, and how to use the code.
-
----
-
 # Agentic RAG Using CrewAI & LangChain
 
 This repository demonstrates how to integrate agents into a Retrieval-Augmented Generation (RAG) system using CrewAI and LangChain to retrieve relevant information effectively. The project utilizes multiple agents to perform routing, retrieval, relevance grading, and hallucination filtering to generate accurate and contextually grounded responses.
